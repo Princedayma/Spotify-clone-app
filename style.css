@@ -35,7 +35,7 @@ nav ul li{
     align-items: center;
     font-weight: bolder;
     font-size: 1.3rem;
-    background-image: url('covers/Screenshot__632_-removebg-preview.png');
+    background-image: url('Screenshot__632_-removebg-preview.png');
 }
 
 .container{
@@ -48,7 +48,7 @@ nav ul li{
    width: 70%;
    border-radius: 12px;
    padding: 34px;
-   background-image: url('covers/pinterest-video.gif');
+   background-image: url('pinterest-video.gif');
    background-repeat: no-repeat;
    background-position: right;
    background-size: contain;
@@ -66,7 +66,7 @@ nav ul li{
     align-items: center;
     flex-direction: column; 
 
-    background-image: url('covers/Screenshot__632_-removebg-preview.png');
+    background-image: url('Screenshot__632_-removebg-preview.png');
     background-repeat: no-repeat;
     background-position: right;
     background-size: contain;
