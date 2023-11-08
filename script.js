@@ -11,16 +11,16 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
      
 
 let songs = [
-    {songName: "Warriyo - Mortals [NCS Release]", filePath: "songs/1.mp3", coverPath: "covers/music.jpg"},
-    {songName: "Cielo - Huma-Huma", filePath: "songs/2.mp3", coverPath: "covers/music.jpg"},
-    {songName: "DEAF KEV - Invincible [NCS Release]-320k", filePath: "songs/3.mp3", coverPath: "covers/music.jpg"},
-    {songName: "Different Heaven & EH!DE - My Heart [NCS Release]", filePath: "songs/4.mp3", coverPath: "covers/music.jpg"},
-    {songName: "Janji-Heroes-Tonight-feat-Johnning-NCS-Release", filePath: "songs/5.mp3", coverPath: "covers/music.jpg"},
-    {songName: "Warriyo - Mortals [NCS Release]", filePath: "songs/1.mp3", coverPath: "covers/music.jpg"},
-    {songName: "Janji-Heroes-Tonight-feat-Johnning-NCS-Release", filePath: "songs/2.mp3", coverPath: "covers/music.jpg"},
-    {songName: "DEAF KEV - Invincible [NCS Release]-320k", filePath: "songs/.mp3", coverPath: "covers/music.jpg"},
-    {songName: "Warriyo - Mortals [NCS Release]", filePath: "songs/1.mp3", coverPath: "covers/music.jpg"},
-    {songName: "Different Heaven & EH!DE - My Heart [NCS Release]", filePath: "songs/4.mp3", coverPath: "covers/music.jpg"},
+    {songName: "Warriyo - Mortals [NCS Release]", filePath: "songs/1.mp3", coverPath: "music.jpg"},
+    {songName: "Cielo - Huma-Huma", filePath: "songs/2.mp3", coverPath: "music.jpg"},
+    {songName: "DEAF KEV - Invincible [NCS Release]-320k", filePath: "songs/3.mp3", coverPath: "music.jpg"},
+    {songName: "Different Heaven & EH!DE - My Heart [NCS Release]", filePath: "songs/4.mp3", coverPath: "music.jpg"},
+    {songName: "Janji-Heroes-Tonight-feat-Johnning-NCS-Release", filePath: "songs/5.mp3", coverPath: "music.jpg"},
+    {songName: "Warriyo - Mortals [NCS Release]", filePath: "songs/1.mp3", coverPath: "music.jpg"},
+    {songName: "Janji-Heroes-Tonight-feat-Johnning-NCS-Release", filePath: "songs/2.mp3", coverPath: "music.jpg"},
+    {songName: "DEAF KEV - Invincible [NCS Release]-320k", filePath: "songs/.mp3", coverPath: "music.jpg"},
+    {songName: "Warriyo - Mortals [NCS Release]", filePath: "songs/1.mp3", coverPath: "music.jpg"},
+    {songName: "Different Heaven & EH!DE - My Heart [NCS Release]", filePath: "songs/4.mp3", coverPath: "music.jpg"},
 ]
 
 songItems.forEach((element, i)=>{ 
